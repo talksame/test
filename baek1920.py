@@ -22,7 +22,7 @@ def finding(target, num):
     return 0
 
 
-
+#hello
 n = int(input())
 num = list(map(int, input().split()))
 
